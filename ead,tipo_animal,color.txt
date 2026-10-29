@@ -1,0 +1,6 @@
+ead,tipo_animal,color
+3.perro,negro
+4.perro,gris
+2.perro,blanco
+
+data_prueba.csv
